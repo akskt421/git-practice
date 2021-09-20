@@ -3,4 +3,4 @@
 2回目  
 mainブランチで変更(rebase conflict)
 rebasepull用
-stash練習(トラック済み)
+stash練習(2nd)
